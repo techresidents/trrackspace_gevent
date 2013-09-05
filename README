@@ -1,0 +1,8 @@
+Tech Residents Rackspace (Gevent) Library
+
+INSTALL:
+pip install git+ssh://dev.techresidents.com/tr/repos/techresidents/lib/python/trrackspace_gevent#egg=trrackspace_gevent
+
+DEVELOPMENT
+mkvirtualenv trrackspace_gevent
+python setup.py develop
