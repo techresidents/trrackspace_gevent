@@ -34,8 +34,8 @@ setup(
         ],
     install_requires=[
         'trpycore>=0.11.0',
-        'trhttp>=0.4.0',
-        'trhttp_gevent>=0.4.0',
-        'trrackspace>=0.2.0',
+        'trhttp>=0.5.0',
+        'trhttp_gevent>=0.5.0',
+        'trrackspace>=0.3.0',
     ]
 )
